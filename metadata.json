@@ -1,0 +1,6 @@
+{
+  "name": "WiFi Voucher WhatsApp & QRIS Blueprint System",
+  "description": "Blueprint arsitektur, simulasi interaktif, dan generator kode otomasi penjualan voucher WiFi dengan WhatsApp, Google Sheets database, pembayaran QRIS, serta notifikasi otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
